@@ -1,0 +1,4 @@
+const student = { 
+reflection: "My experience during the two-day Intramurals was very fun and memorable. I watched different sports competitions held at the Old Site Campus in Matusalem. I also joined in cheering for the candidates who represented their respective courses during their presentations. Those two days were enjoyable because I was able to show my support and participate in the event even though I did not join any competitions. Instead, I became one of the supporters who cheered for the players and candidates. Overall, I was happy because I was still able to contribute to the success of the Intramurals through my participation and support." };
+
+console.log(student);
